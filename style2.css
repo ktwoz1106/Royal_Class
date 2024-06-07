@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.div1 {
+  background-color: Solid black ;
+  text-decoration: underline;
+  display: inline-block; 
+  
+}
+.div2 {
+  display: inline-block;
+  
+}
+.container1 {
+  display: inline-block;
+  
+}

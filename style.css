@@ -1,0 +1,22 @@
+.div1 {
+  text-align: center;
+  font-size: 25px;
+  color: black ;
+}
+table {
+  
+  border: 2px solid black;
+}
+th , td , tr { 
+  border: 1px solid #911010;
+} 
+
+.div2 {
+  text-decoration : underline;
+}
+.div4{
+  text-decoration:underline;
+}
+.button1 {
+  border-radius: 120px ;
+  }
